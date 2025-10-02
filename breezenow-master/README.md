@@ -2,7 +2,7 @@
 
 The **BreezeNow App** is a user-friendly weather application that allows users to check real-time temperature and various weather parameters for any location worldwide. It is built using **HTML**, **CSS**, **JavaScript**, and integrates with a **Weather API**.
 
-<p>Click here to see live application: <a href="https://breezenow.vercel.app">BreezeNow App</a></p> 
+<!-- <p>Click here to see live application: <a href="https://breezenow.vercel.app">BreezeNow App</a></p>  -->
 
 <div align="center">
 
